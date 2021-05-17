@@ -1,5 +1,4 @@
-import React, { Component, useState } from 'react';
-import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import XLSX from 'xlsx';
 import { experimentalStyled as styled } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';

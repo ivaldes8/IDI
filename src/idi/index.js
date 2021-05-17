@@ -51,8 +51,8 @@ class index extends Component {
                 </Box>
                 <Box sx={{ flexGrow: 1 }}>
                     <Grid container spacing={2}>
-                        <Grid xs={0} md={5} xl={5}></Grid>
-                        <Grid xs={12} md={2} xl={2}>
+                        <Grid xs={5} md={5} xl={5}></Grid>
+                        <Grid xs={2} md={2} xl={2}>
                         <Card>
                             <CardActionArea>
                                 <CardContent>
@@ -65,7 +65,7 @@ class index extends Component {
                             </CardActionArea>
                         </Card>
                         </Grid>
-                        <Grid xs={0} md={5} xl={5}></Grid>
+                        <Grid xs={5} md={5} xl={5}></Grid>
                     </Grid>
                 </Box>
                 <br/>
