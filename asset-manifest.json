@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ivaldes8/IDI/static/css/main.621a7a6c.chunk.css",
+    "main.js": "/ivaldes8/IDI/static/js/main.ca7f98c6.chunk.js",
+    "main.js.map": "/ivaldes8/IDI/static/js/main.ca7f98c6.chunk.js.map",
+    "runtime-main.js": "/ivaldes8/IDI/static/js/runtime-main.82f0557f.js",
+    "runtime-main.js.map": "/ivaldes8/IDI/static/js/runtime-main.82f0557f.js.map",
+    "static/js/2.dcf207f7.chunk.js": "/ivaldes8/IDI/static/js/2.dcf207f7.chunk.js",
+    "static/js/2.dcf207f7.chunk.js.map": "/ivaldes8/IDI/static/js/2.dcf207f7.chunk.js.map",
+    "static/js/3.cbc88137.chunk.js": "/ivaldes8/IDI/static/js/3.cbc88137.chunk.js",
+    "static/js/3.cbc88137.chunk.js.map": "/ivaldes8/IDI/static/js/3.cbc88137.chunk.js.map",
+    "index.html": "/ivaldes8/IDI/index.html",
+    "static/css/main.621a7a6c.chunk.css.map": "/ivaldes8/IDI/static/css/main.621a7a6c.chunk.css.map",
+    "static/js/2.dcf207f7.chunk.js.LICENSE.txt": "/ivaldes8/IDI/static/js/2.dcf207f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f0557f.js",
+    "static/js/2.dcf207f7.chunk.js",
+    "static/css/main.621a7a6c.chunk.css",
+    "static/js/main.ca7f98c6.chunk.js"
+  ]
+}
